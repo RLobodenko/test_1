@@ -1,4 +1,4 @@
-1)Создал пользовательскую форму с полями ( https://rlobodenko.github.io/test_1/)
+1)Создал пользовательскую форму с полями
 
 2)https://app.hubspot.com/contacts/6913500/contact/101/ -создал контакт на hubspot.com
 
