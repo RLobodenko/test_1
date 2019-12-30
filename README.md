@@ -19,6 +19,6 @@
 5)Требование соблюдаеется (example@site.com – ok, example@test - wrong), благодаря пункту 2.
 
 Site2.com:
-Username: admin
-Password: admin
+Username: admin ;
+Password: admin ;
 Потом заходим во вкладку Find content -> drupal -> там будут формы.
