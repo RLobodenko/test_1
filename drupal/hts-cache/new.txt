@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:38:07	1561/1561	---M--	200	added ('OK')	text/plain	etag:%22200000000b87d-619-4f0050168f100%22	http://site2.com/robots.txt		(from )
+10:38:07	7332/7332	---M--	200	added ('OK')	text/html	etag:%221577691487%22	http://site2.com/	C:/%d0%9c%d0%be%d0%b8%20Web%20%d0%a1%d0%b0%d0%b9%d1%82%d1%8b/drupal/site2.com/index.html	(from )
+10:38:09	6856/6856	---M--	200	added ('OK')	text/html	etag:%221577691488%22	http://site2.com/?q=user/password	C:/%d0%9c%d0%be%d0%b8%20Web%20%d0%a1%d0%b0%d0%b9%d1%82%d1%8b/drupal/site2.com/indexc12c.html	(from http://site2.com/)
+10:38:09	7857/7857	---M--	200	added ('OK')	text/html	etag:%221577691488%22	http://site2.com/?q=user/register	C:/%d0%9c%d0%be%d0%b8%20Web%20%d0%a1%d0%b0%d0%b9%d1%82%d1%8b/drupal/site2.com/indexb824.html	(from http://site2.com/)
+10:38:09	7186/7186	---M--	200	added ('OK')	text/html	etag:%221577691489%22	http://site2.com/?q=user	C:/%d0%9c%d0%be%d0%b8%20Web%20%d0%a1%d0%b0%d0%b9%d1%82%d1%8b/drupal/site2.com/indexc008.html	(from http://site2.com/?q=user/register)
